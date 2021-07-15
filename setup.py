@@ -1,4 +1,4 @@
-mport os
+import os
 from setuptools import setup
 
 os.environ["QT_PREFERRED_BINDING"] = "None"
