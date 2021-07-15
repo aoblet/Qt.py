@@ -30,7 +30,7 @@ setup(
     author_email="konstruktion@gmail.com",
     url="https://github.com/mottosso/Qt",
     license="MIT",
-    data_files=[('.',['LICENSE'])],
+    data_files=[('tmp_dir',['LICENSE'])],
     zip_safe=False,
     py_modules=["Qt"],
     classifiers=classifiers
